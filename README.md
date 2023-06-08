@@ -10,10 +10,10 @@ Bei Fragen oder Unklarheiten erstellen Sie einen [Issue]([https://github.com/SFO
 
 ## Minimales Geodatenmodell
 Das minimale Geodatenmodell (MGDM) und die Dokumentation finden Sie hier:
-* [Minimales Geodatenmodell]()
-* [Dokumentation minimales Geodatenmodell]()
-* Die Publikation des MGDM im Model Repository folgt.
-* Die Publikation der externen Kataloge folgt.
+* [Minimales Geodatenmodell](https://github.com/SFOE/ErfassungVersorgungsgebieteThermischerNetze/blob/main/files/SupplyTerritoriesOfThermalNetworks_V1.ili)
+* [Dokumentation minimales Geodatenmodell](https://github.com/SFOE/ErfassungVersorgungsgebieteThermischerNetze/blob/main/files/Versorgungsgebiete%20thermischer%20Netze%20DE%20V1.pdf)
+* *Die Publikation des MGDM im Model Repository folgt.*
+* *Die Publikation der externen Kataloge folgt.*
 
 ## INTERLIS - Allgemeine Informationen
 Die Geodaten müssen in INTERLIS erstellt werden. Hier finden Sie allgemeine Informationen zu INTERLIS:
@@ -23,10 +23,19 @@ Die Geodaten müssen in INTERLIS erstellt werden. Hier finden Sie allgemeine Inf
 Folgende Werkzeuge eignen sich für die Erstellung von INTERLIS-Geodaten:
 
 ### QGIS Model Baker
+* Das Model Baker Plugin kann direkt in QGIS über *Erweiterungen verwalten und installieren* installiert werden.
+* [Dokumentation](https://opengisch.github.io/QgisModelBaker/de/)
 
 ### FME mit dem Plugin ili2fme
+* Mit dem Plugin *ili2fme* können INTERLIS-Daten in FME gelesen und geschrieben werden.
+* [Download](https://www.interlis.ch/downloads/ili2fme)
+* [Dokumentation](https://www.geo.admin.ch/de/geodatenmodelle/)
+* *FME-Vorlage folgt*
 
 ### ili2db - Ladeprogramm für Datenbanken (PostgrSQL/PostGIS, GeoPackage oder ESRI FileGDB)
+* Mit ili2db kann ein modellkonformes Datenbankschema erstellt werden. Aus diesem Datenbankschema können anschliessend valide INTERLIS-Daten exportiert werden.
+* [Download](https://www.interlis.ch/downloads/ili2db)
+* *Datenbankschema folgt*
 
 ## INTERLIS - Geodaten validieren
 INTERLIS-Geodaten können mit folgenden Werkzeugen validiert werden:
