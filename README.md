@@ -7,7 +7,7 @@ Der Verband Thermische Netze Schweiz und das Bundesamt für Energie erstellen ei
 * [INTERLIS - Geodaten validieren](https://github.com/SFOE/ErfassungVersorgungsgebieteThermischerNetze/tree/main#interlis---geodaten-validieren)
 * [Geodaten publizieren](https://github.com/SFOE/ErfassungVersorgungsgebieteThermischerNetze/tree/main#geodaten-publizieren)
 
-Bei Fragen oder Unklarheiten erstellen Sie einen [Issue]([https://github.com/SFOE/GeodatenschnittstelleDokumentation/issues](https://github.com/SFOE/ErfassungVersorgungsgebieteThermischerNetze/issues)) oder schreiben Sie eine [E-Mail](mailto:geoinformation@bfe.admin.ch)
+Bei Fragen oder Unklarheiten erstellen Sie einen [Issue](https://github.com/SFOE/ErfassungVersorgungsgebieteThermischerNetze/issues) oder schreiben Sie eine [E-Mail](mailto:geoinformation@bfe.admin.ch)
 
 
 
