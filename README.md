@@ -15,8 +15,12 @@ Bei Fragen oder Unklarheiten erstellen Sie einen [Issue](https://github.com/SFOE
 Das minimale Geodatenmodell (MGDM) und die Dokumentation finden Sie hier:
 * [Minimales Geodatenmodell](https://github.com/SFOE/ErfassungVersorgungsgebieteThermischerNetze/blob/main/files/SupplyTerritoriesOfThermalNetworks_V1.ili)
 * [Dokumentation minimales Geodatenmodell](https://github.com/SFOE/ErfassungVersorgungsgebieteThermischerNetze/blob/main/files/Versorgungsgebiete%20thermischer%20Netze%20DE%20V1.pdf)
-* *Die Publikation des MGDM im Model Repository folgt.*
-* *Die Publikation der externen Kataloge folgt.*
+* Kataloge
+  * [SupplyTerritoriesOfThermalNetworks_EnergySource_Catalogue_V1.xml](https://github.com/SFOE/ErfassungVersorgungsgebieteThermischerNetze/blob/main/files/SupplyTerritoriesOfThermalNetworks_EnergySource_Catalogue_V1.xml)
+  * [SupplyTerritoriesOfThermalNetworks_ObligationToConnect_Catalogue_V1.xml](https://github.com/SFOE/ErfassungVersorgungsgebieteThermischerNetze/blob/main/files/SupplyTerritoriesOfThermalNetworks_ObligationToConnect_Catalogue_V1.xml)
+  * [SupplyTerritoriesOfThermalNetworks_SourceofHeat_Catalogue_V1.xml](https://github.com/SFOE/ErfassungVersorgungsgebieteThermischerNetze/blob/main/files/SupplyTerritoriesOfThermalNetworks_SourceofHeat_Catalogue_V1.xml)
+  * [SupplyTerritoriesOfThermalNetworks_Status_Catalogue_V1.xml](https://github.com/SFOE/ErfassungVersorgungsgebieteThermischerNetze/blob/main/files/SupplyTerritoriesOfThermalNetworks_Status_Catalogue_V1.xml)
+* *Die Publikation des MGDM und der Kataloge im Model Repository folgt.*
 
 ## INTERLIS - Allgemeine Informationen
 Die Geodaten müssen in INTERLIS erstellt werden. Hier finden Sie allgemeine Informationen zu INTERLIS:
