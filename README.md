@@ -42,7 +42,6 @@ Folgende Werkzeuge eignen sich für die Erstellung von INTERLIS-Geodaten:
 ### ili2db - Ladeprogramm für Datenbanken (PostgrSQL/PostGIS, GeoPackage oder ESRI FileGDB)
 * Mit ili2db kann ein modellkonformes Datenbankschema erstellt werden. Aus diesem Datenbankschema können anschliessend valide INTERLIS-Daten exportiert werden.
 * [Download](https://www.interlis.ch/downloads/ili2db)
-* *Datenbankschema folgt*
 
 ## INTERLIS - Geodaten validieren
 INTERLIS-Geodaten können mit folgenden Werkzeugen validiert werden:
