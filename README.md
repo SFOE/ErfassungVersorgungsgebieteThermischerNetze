@@ -20,6 +20,7 @@ Das minimale Geodatenmodell (MGDM) und die Dokumentation finden Sie hier:
   * [SupplyTerritoriesOfThermalNetworks_ObligationToConnect_Catalogue_V1.xml](https://github.com/SFOE/ErfassungVersorgungsgebieteThermischerNetze/blob/main/files/SupplyTerritoriesOfThermalNetworks_ObligationToConnect_Catalogue_V1.xml)
   * [SupplyTerritoriesOfThermalNetworks_SourceofHeat_Catalogue_V1.xml](https://github.com/SFOE/ErfassungVersorgungsgebieteThermischerNetze/blob/main/files/SupplyTerritoriesOfThermalNetworks_SourceofHeat_Catalogue_V1.xml)
   * [SupplyTerritoriesOfThermalNetworks_Status_Catalogue_V1.xml](https://github.com/SFOE/ErfassungVersorgungsgebieteThermischerNetze/blob/main/files/SupplyTerritoriesOfThermalNetworks_Status_Catalogue_V1.xml)
+* [Testdaten in INTERLIS](https://uvek-gis.admin.ch/BFE/berichte/VersorgungsgebieteThermischerNetze/Testdaten_Interlis.zip)
 * *Die Publikation des MGDM und der Kataloge im Model Repository folgt.*
 
 ## INTERLIS - Allgemeine Informationen
@@ -37,7 +38,7 @@ Folgende Werkzeuge eignen sich für die Erstellung von INTERLIS-Geodaten:
 * Mit dem Plugin *ili2fme* können INTERLIS-Daten in FME gelesen und geschrieben werden.
 * [Download](https://www.interlis.ch/downloads/ili2fme)
 * [Dokumentation](https://www.geo.admin.ch/de/geodatenmodelle/)
-* *FME-Vorlage folgt*
+* [FME-Template](https://uvek-gis.admin.ch/BFE/berichte/VersorgungsgebieteThermischerNetze/FME_Template_DE.zip)
 
 ### ili2db - Ladeprogramm für Datenbanken (PostgrSQL/PostGIS, GeoPackage oder ESRI FileGDB)
 * Mit ili2db kann ein modellkonformes Datenbankschema erstellt werden. Aus diesem Datenbankschema können anschliessend valide INTERLIS-Daten exportiert werden.
