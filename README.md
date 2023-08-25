@@ -14,7 +14,7 @@ Bei Fragen oder Unklarheiten erstellen Sie einen [Issue](https://github.com/SFOE
 ## Minimales Geodatenmodell
 Das minimale Geodatenmodell (MGDM) und die Dokumentation finden Sie hier:
 * [Minimales Geodatenmodell](https://github.com/SFOE/ErfassungVersorgungsgebieteThermischerNetze/blob/main/files/SupplyTerritoriesOfThermalNetworks_V1.ili)
-* [Dokumentation minimales Geodatenmodell](https://github.com/SFOE/ErfassungVersorgungsgebieteThermischerNetze/blob/main/files/Versorgungsgebiete%20thermischer%20Netze%20DE%20V1.pdf)
+* [Dokumentation minimales Geodatenmodell](https://www.bfe.admin.ch/bfe/de/home/versorgung/statistik-und-geodaten/geoinformation/geodaten/thermische-netze/versorgungsgebiete-thermischer-netze.html)
 * Kataloge
   * [SupplyTerritoriesOfThermalNetworks_EnergySource_Catalogue_V1.xml](https://github.com/SFOE/ErfassungVersorgungsgebieteThermischerNetze/blob/main/files/SupplyTerritoriesOfThermalNetworks_EnergySource_Catalogue_V1.xml)
   * [SupplyTerritoriesOfThermalNetworks_ObligationToConnect_Catalogue_V1.xml](https://github.com/SFOE/ErfassungVersorgungsgebieteThermischerNetze/blob/main/files/SupplyTerritoriesOfThermalNetworks_ObligationToConnect_Catalogue_V1.xml)
