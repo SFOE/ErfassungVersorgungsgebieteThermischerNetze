@@ -13,15 +13,14 @@ Bei Fragen oder Unklarheiten erstellen Sie einen [Issue](https://github.com/SFOE
 
 ## Minimales Geodatenmodell
 Das minimale Geodatenmodell (MGDM) und die Dokumentation finden Sie hier:
-* [Minimales Geodatenmodell](https://github.com/SFOE/ErfassungVersorgungsgebieteThermischerNetze/blob/main/files/SupplyTerritoriesOfThermalNetworks_V1.ili)
+* [Minimales Geodatenmodell](https://models.geo.admin.ch/BFE/SupplyTerritoriesOfThermalNetworks_V1.ili)
 * [Dokumentation minimales Geodatenmodell](https://www.bfe.admin.ch/bfe/de/home/versorgung/statistik-und-geodaten/geoinformation/geodaten/thermische-netze/versorgungsgebiete-thermischer-netze.html)
 * Kataloge
-  * [SupplyTerritoriesOfThermalNetworks_EnergySource_Catalogue_V1.xml](https://github.com/SFOE/ErfassungVersorgungsgebieteThermischerNetze/blob/main/files/SupplyTerritoriesOfThermalNetworks_EnergySource_Catalogue_V1.xml)
-  * [SupplyTerritoriesOfThermalNetworks_ObligationToConnect_Catalogue_V1.xml](https://github.com/SFOE/ErfassungVersorgungsgebieteThermischerNetze/blob/main/files/SupplyTerritoriesOfThermalNetworks_ObligationToConnect_Catalogue_V1.xml)
-  * [SupplyTerritoriesOfThermalNetworks_SourceofHeat_Catalogue_V1.xml](https://github.com/SFOE/ErfassungVersorgungsgebieteThermischerNetze/blob/main/files/SupplyTerritoriesOfThermalNetworks_SourceofHeat_Catalogue_V1.xml)
-  * [SupplyTerritoriesOfThermalNetworks_Status_Catalogue_V1.xml](https://github.com/SFOE/ErfassungVersorgungsgebieteThermischerNetze/blob/main/files/SupplyTerritoriesOfThermalNetworks_Status_Catalogue_V1.xml)
+  * [SupplyTerritoriesOfThermalNetworks_EnergySource_Catalogue_V1.xml](https://models.geo.admin.ch/BFE/SupplyTerritoriesOfThermalNetworks_EnergySource_Catalogue_V1.xml)
+  * [SupplyTerritoriesOfThermalNetworks_ObligationToConnect_Catalogue_V1.xml](https://models.geo.admin.ch/BFE/SupplyTerritoriesOfThermalNetworks_ObligationToConnect_Catalogue_V1.xml)
+  * [SupplyTerritoriesOfThermalNetworks_SourceofHeat_Catalogue_V1.xml](https://models.geo.admin.ch/BFE/SupplyTerritoriesOfThermalNetworks_SourceofHeat_Catalogue_V1.xml)
+  * [SupplyTerritoriesOfThermalNetworks_Status_Catalogue_V1.xml](https://models.geo.admin.ch/BFE/SupplyTerritoriesOfThermalNetworks_Status_Catalogue_V1.xml)
 * [Testdaten in INTERLIS](https://uvek-gis.admin.ch/BFE/berichte/VersorgungsgebieteThermischerNetze/Testdaten_Interlis.zip)
-* *Die Publikation des MGDM und der Kataloge im Model Repository folgt.*
 
 ## INTERLIS - Allgemeine Informationen
 Die Geodaten müssen in INTERLIS erstellt werden. Hier finden Sie allgemeine Informationen zu INTERLIS:
