@@ -46,7 +46,7 @@ Folgende Werkzeuge eignen sich für die Erstellung von INTERLIS-Geodaten:
 
 ## INTERLIS - Geodaten validieren
 INTERLIS-Geodaten können mit folgenden Werkzeugen validiert werden:
-* [ilicop.ch](https://ilicop.ch/) (erst möglich sobald MGDM im Model Repository publiziert ist)
+* [ilicop.ch](https://ilicop.ch/)
 * [ilivalidator](https://www.interlis.ch/downloads/ilivalidator)
 * [iGCheck](https://www.interlis.ch/downloads/igcheck)
 
